@@ -1,0 +1,6 @@
+framework module Pods_DemoMovie {
+  umbrella header "Pods-DemoMovie-umbrella.h"
+
+  export *
+  module * { export * }
+}
